@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: dashboard-campus-partnership-injourney
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./public
+    branch: claude/funny-carson-7jjhui
