@@ -4,5 +4,5 @@ services:
     runtime: static
     buildCommand: ""
     staticPublishPath: ./public
-    branch: claude/keen-davinci-v1yf93
+    branch: claude/funny-carson-7jjhui
     autoDeploy: true
